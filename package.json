@@ -1,0 +1,10 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "hardhat": "^2.0.8"
+  },
+  "scripts": {
+    "clean": "hardhat clean",
+    "compile": "hardhat compile"
+  }
+}
